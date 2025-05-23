@@ -21,7 +21,7 @@ Step 5 - Add elements using the toolbox and connect them properly.
 Step 6 - Label all components clearly and meaningfully.
 
 Step 7 - Save and export diagrams as images or PDF.
-
+ 
 
 # DIAGRAMS:
 
